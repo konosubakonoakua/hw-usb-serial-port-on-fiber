@@ -14,4 +14,5 @@
 
 
 ## usage
-- connect USB2UART to fiber cable
+- connect USB2UART to fiber cable in loopback mode (tx to rx)
+- perform loopback test via `./tests/loopback.py`
